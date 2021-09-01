@@ -1,2 +1,3 @@
 # Dynamixel_ros_odens
-WRS用dynamixel
+WRS用
+rosでdynamixelを動作させるプログラム
