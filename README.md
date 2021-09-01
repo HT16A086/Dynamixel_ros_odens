@@ -27,3 +27,11 @@
   catkin build 
   ```
 
+## 動作確認
+- USB2DynamixelをUSBポートに接続．
+- 端末1：dynamixel_workbench_controllersを起動.
+```
+- roslaunch dynamixel_workbench_controllers dynamixel_controllers.launch.
+```
+
+- 
